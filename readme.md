@@ -13,8 +13,6 @@
 
 <description>
 
-
-
 一款基于Node.JS的网页TodoList应用
 
 </description>
